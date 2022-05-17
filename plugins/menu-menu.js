@@ -67,53 +67,56 @@ let str = `
 
 *📅 𝙵𝙴𝙲𝙷𝙰: ${week}, ${date}*
 
-*📈 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
+*💤 𝚃𝙸𝙴𝙼𝙿𝙾 𝙰𝙲𝚃𝙸𝚅𝙾: ${uptime}*
 
-*📊 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
+*⚡ 𝚄𝚂𝚄𝙰𝚁𝙸𝙾𝚂: ${rtotalreg}*
 
 ════════════════════════ ×㊄㊅㊆× ════════════════════════
 
 *<𝕁𝕌𝔼𝔾𝕆𝕊/>*
+EJEMPLO:
+.PUTO @IXXI
+°══•>>_${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
+°══•>>_${usedPrefix}ppt *<papel / tijera /piedra>*_
+°══•>>_${usedPrefix}prostituto *<nombre / @tag>*_
+°══•>>_${usedPrefix}prostituta *<nombre / @tag>*_
+°══•>>_${usedPrefix}gay2 *<nombre / @tag>*_
+°══•>>_${usedPrefix}lesbiana *<nombre / @tag>*_
+°══•>>_${usedPrefix}pajero *<nombre / @tag>*_
+°══•>>_${usedPrefix}pajera *<nombre / @tag>*_
+°══•>>_${usedPrefix}puto *<nombre / @tag>*_
+°══•>>_${usedPrefix}puta *<nombre / @tag>*_
+°══•>>_${usedPrefix}manco *<nombre / @tag>*_
+°══•>>_${usedPrefix}manca *<nombre / @tag>*_
+°══•>>_${usedPrefix}rata *<nombre / @tag>*_
+°══•>>_${usedPrefix}love *<nombre / @tag>*_
+°══•>>_${usedPrefix}doxear *<nombre / @tag>*_
+°══•>>_${usedPrefix}pregunta *<texto>*_
+°══•>>_${usedPrefix}simi *<texto>*_
+°══•>>_${usedPrefix}topgays_
+°══•>>_${usedPrefix}topotakus_
+°══•>>_${usedPrefix}formarpareja_
+°══•>>_${usedPrefix}verdad_
+°══•>>_${usedPrefix}reto_
 
-° ඬ⃟🎖️ _${usedPrefix}mates *<noob / easy / medium / hard / extreme /impossible /impossible2>*_
-° ඬ⃟🎖️ _${usedPrefix}ppt *<papel / tijera /piedra>*_
-° ඬ⃟🎖️ _${usedPrefix}prostituto *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}prostituta *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}gay2 *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}lesbiana *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pajero *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pajera *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}puto *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}puta *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}manco *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}manca *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}rata *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}love *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}doxear *<nombre / @tag>*_
-° ඬ⃟🎖️ _${usedPrefix}pregunta *<texto>*_
-° ඬ⃟🎖️ _${usedPrefix}simi *<texto>*_
-° ඬ⃟🎖️ _${usedPrefix}topgays_
-° ඬ⃟🎖️ _${usedPrefix}topotakus_
-° ඬ⃟🎖️ _${usedPrefix}formarpareja_
-° ඬ⃟🎖️ _${usedPrefix}verdad_
-° ඬ⃟🎖️ _${usedPrefix}reto_
+◈◐◈◐◈◐◈◐◈◐◈◐◈◈◐◈◐◈◐◈◐◈◐◈◐◈◈◐◈
 
 *<𝔸ℂ𝕋𝕀𝕍𝔸ℝ 𝕆 𝔻𝔼𝕊𝔸ℂ𝕋𝕀𝕍𝔸ℝ/>*
 
-° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}disable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}enable *detect*_
-° ඬ⃟☑️ _${usedPrefix}disable *detect*_
-° ඬ⃟☑️ _${usedPrefix}enable *audios*_
-° ඬ⃟☑️ _${usedPrefix}disable *audios*_
-° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
-° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
+°══•>>_${usedPrefix}enable *welcome*_
+°══•>>_${usedPrefix}disable *welcome*_
+°══•>>_${usedPrefix}enable *modohorny*_
+°══•>>_${usedPrefix}disable *modohorny*_
+°══•>>_${usedPrefix}enable *antilink*_
+°══•>>_${usedPrefix}disable *antilink*_
+°══•>>_${usedPrefix}enable *antilink2*_
+°══•>>_${usedPrefix}disable *antilink2*_
+°══•>>_${usedPrefix}enable *detect*_
+°══•>>_${usedPrefix}disable *detect*_
+°══•>>_${usedPrefix}enable *audios*_
+°══•>>_${usedPrefix}disable *audios*_
+°══•>>_${usedPrefix}enable *autosticker*_
+°══•>>_${usedPrefix}disable *autosticker*_
 
 *<ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>*
 
@@ -121,149 +124,75 @@ let str = `
 
 *<𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊/>*
 
-° ඬ⃟📥 _${usedPrefix}facebook *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}mediafire *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}gitclone *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}tiktok *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp3 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp4 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play.1 *<texto / enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play.2 *<texto / enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play *<texto>*_
-° ඬ⃟📥 _${usedPrefix}spotify *<texto>*_
-° ඬ⃟📥 _${usedPrefix}imagen *<texto>*_
-° ඬ⃟📥 _${usedPrefix}pinteret *<texto>*_
-° ඬ⃟📥 _${usedPrefix}wallpaper *<texto>*_
-° ඬ⃟📥 _${usedPrefix}wallpaper2 *<texto>*_
-° ඬ⃟📥 _${usedPrefix}pptiktok *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}igstalk *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}tiktokstalk *<nombre de usuario>*_
+°══•>>_${usedPrefix}facebook *<enlace / link / url>*_
+°══•>>_${usedPrefix}instagram *<enlace / link / url>*_
+°══•>>_${usedPrefix}mediafire *<enlace / link / url>*_
+°══•>>_${usedPrefix}instagram *<enlace / link / url>*_
+°══•>>_${usedPrefix}gitclone *<enlace / link / url>*_
+°══•>>_${usedPrefix}tiktok *<enlace / link / url>*_
+°══•>>_${usedPrefix}ytmp3 *<enlace / link / url>*_
+°══•>>_${usedPrefix}ytmp4 *<enlace / link / url>*_
+°══•>>_${usedPrefix}play.1 *<texto / enlace / link / url>*_
+°══•>>_${usedPrefix}play.2 *<texto / enlace / link / url>*_
+°══•>>_${usedPrefix}play *<texto>*_
+°══•>>_${usedPrefix}spotify *<texto>*_
+°══•>>_${usedPrefix}imagen *<texto>*_
+°══•>>_${usedPrefix}pinteret *<texto>*_
+°══•>>_${usedPrefix}wallpaper *<texto>*_
+°══•>>_${usedPrefix}wallpaper2 *<texto>*_
+°══•>>_${usedPrefix}pptiktok *<nombre de usuario>*_
+°══•>>_${usedPrefix}igstalk *<nombre de usuario>*_
+°══•>>_${usedPrefix}tiktokstalk *<nombre de usuario>*_
 
 *<𝔾ℝ𝕌ℙ𝕆𝕊/>* 
 
-° ඬ⃟💎 _${usedPrefix}add *<numero>*_
-° ඬ⃟💎 _${usedPrefix}kick *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}grupo *<abrir / cerrar>*_
-° ඬ⃟💎 _${usedPrefix}promote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}banchat_
-° ඬ⃟💎 _${usedPrefix}unbanchat_
-° ඬ⃟💎 _admins *<texto>*_ (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
-° ඬ⃟💎 _${usedPrefix}demote *<@tag>*_
-° ඬ⃟💎 _${usedPrefix}infogroup_
-° ඬ⃟💎 _${usedPrefix}link_
-° ඬ⃟💎 _${usedPrefix}setname *<texto>*_
-° ඬ⃟💎 _${usedPrefix}setdesc *<texto>*_
-° ඬ⃟💎 _${usedPrefix}invocar *<texto>*_
-° ඬ⃟💎 _${usedPrefix}hidetag *<texto>*_
-° ඬ⃟💎 _${usedPrefix}simular *<welcome / bye / promote / demote>*_
+°═•>> ${usedPrefix}add *<numero>*
+°═•>> ${usedPrefix}kick *<@tag>*
+°═•>> ${usedPrefix}grupo *<abrir / cerrar>*
+°═•>> ${usedPrefix}promote *<@tag>*
+°═•>> ${usedPrefix}demote *<@tag>*
+°═•>> ${usedPrefix}banchat
+°═•>> ${usedPrefix}unbanchat
+°═•>> $admins *<texto>* (𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)
+°═•>> ${usedPrefix}demote *<@tag>*
+°═•>> ${usedPrefix}infogroup_
+°═•>> ${usedPrefix}link_
+°═•>> ${usedPrefix}setname *<texto>*
+°═•>> ${usedPrefix}setdesc *<texto>*
+°═•>> ${usedPrefix}invocar *<texto>*
+°═•>> ${usedPrefix}hidetag *<texto>*
+°═•>> ${usedPrefix}simular *<welcome / bye / promote / demote>*
+•═════════∘═════════••═════════∘═════════•
+*<ℂ𝕆ℕ𝕍𝔼ℝ𝕋𝕀𝔻𝕆ℝ𝔼𝕊/>*🧧
 
-*<ℂ𝕆ℕ𝕍𝔼ℝ𝕋𝕀𝔻𝕆ℝ𝔼𝕊/>*
-
-° ඬ⃟🧧 _${usedPrefix}toimg *<responde a un sticker>*_
-° ඬ⃟🧧 _${usedPrefix}tomp3 *<responde a un video / nota de voz>*_
-° ඬ⃟🧧 _${usedPrefix}toptt *<responde a un video / audio>*_
-° ඬ⃟🧧 _${usedPrefix}tovideo *<responde a un audio>*_
-° ඬ⃟🧧 _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
-° ඬ⃟🧧 _${usedPrefix}tts es *<texto>*_
-
+°═•>> ${usedPrefix}toimg *<responde a un sticker>*
+°═•>> ${usedPrefix}tomp3 *<responde a un video / nota de voz>*
+°═•>>${usedPrefix}toptt *<responde a un video / audio>*
+°═•>>  ${usedPrefix}tovideo *<responde a un audio>*
+°═•>> ${usedPrefix}tourl *<responde a un video / imagen / audio>*
+°═•>> ${usedPrefix}tts es *<texto>*
+•═════════∘═════════••═════════∘═════════•
 *<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝕐 𝕃𝕆𝔾𝕆𝕊/>*
-
-° ඬ⃟🖍️ _${usedPrefix}logos *<efecto> <texto>*_
-° ඬ⃟🖍️ _${usedPrefix}simpcard *<@tag>*_
-° ඬ⃟🖍️ _${usedPrefix}hornycard *<@tag>*_
-° ඬ⃟🖍️ _${usedPrefix}lolice *<@tag>*_
-° ඬ⃟🖍️ _${usedPrefix}ytcomment *<texto>*_
-° ඬ⃟🖍️ _${usedPrefix}itssostupid_
-° ඬ⃟🖍️ _${usedPrefix}pixelar_
-° ඬ⃟🖍️ _${usedPrefix}blur_
-
-*<ℝ𝔸ℕ𝔻𝕆𝕄/>*
-
-° ඬ⃟👾 _${usedPrefix}cristianoronaldo_
-° ඬ⃟👾 _${usedPrefix}messi_
-° ඬ⃟👾 _${usedPrefix}meme_
-° ඬ⃟👾 _${usedPrefix}itzy_
-° ඬ⃟👾 _${usedPrefix}blackpink_
-° ඬ⃟👾 _${usedPrefix}kpop *<blackpink / exo / bts>*_
-° ඬ⃟👾 _${usedPrefix}lolivid_
-° ඬ⃟👾 _${usedPrefix}loli_
-° ඬ⃟👾 _${usedPrefix}navidad_
-° ඬ⃟👾 _${usedPrefix}ppcouple_
-° ඬ⃟👾 _${usedPrefix}neko_
-° ඬ⃟👾 _${usedPrefix}waifu_
-° ඬ⃟👾 _${usedPrefix}akira_
-° ඬ⃟👾 _${usedPrefix}akiyama_
-° ඬ⃟👾 _${usedPrefix}anna_
-° ඬ⃟👾 _${usedPrefix}asuna_
-° ඬ⃟👾 _${usedPrefix}ayuzawa_
-° ඬ⃟👾 _${usedPrefix}boruto_
-° ඬ⃟👾 _${usedPrefix}chiho_
-° ඬ⃟👾 _${usedPrefix}chitoge_
-° ඬ⃟👾 _${usedPrefix}deidara_
-° ඬ⃟👾 _${usedPrefix}erza_
-° ඬ⃟👾 _${usedPrefix}elaina_
-° ඬ⃟👾 _${usedPrefix}eba_
-° ඬ⃟👾 _${usedPrefix}emilia_
-° ඬ⃟👾 _${usedPrefix}hestia_
-° ඬ⃟👾 _${usedPrefix}hinata_
-° ඬ⃟👾 _${usedPrefix}inori_
-° ඬ⃟👾 _${usedPrefix}isuzu_
-° ඬ⃟👾 _${usedPrefix}itachi_
-° ඬ⃟👾 _${usedPrefix}itori_
-° ඬ⃟👾 _${usedPrefix}kaga_
-° ඬ⃟👾 _${usedPrefix}kagura_
-° ඬ⃟👾 _${usedPrefix}kaori_
-° ඬ⃟👾 _${usedPrefix}keneki_
-° ඬ⃟👾 _${usedPrefix}kotori_
-° ඬ⃟👾 _${usedPrefix}kurumi_
-° ඬ⃟👾 _${usedPrefix}madara_
-° ඬ⃟👾 _${usedPrefix}mikasa_
-° ඬ⃟👾 _${usedPrefix}miku_
-° ඬ⃟👾 _${usedPrefix}minato_
-° ඬ⃟👾 _${usedPrefix}naruto_
-° ඬ⃟👾 _${usedPrefix}nezuko_
-° ඬ⃟👾 _${usedPrefix}sagiri_
-° ඬ⃟👾 _${usedPrefix}sasuke_
-° ඬ⃟👾 _${usedPrefix}sakura_
-° ඬ⃟👾 _${usedPrefix}cosplay_
-
-*<ℂ𝕆𝕄𝔸ℕ𝔻𝕆𝕊 +𝟙𝟠/>*
-
-° ඬ⃟🔞 _${usedPrefix}pack_
-° ඬ⃟🔞 _${usedPrefix}pack2_
-° ඬ⃟🔞 _${usedPrefix}pack3_
-° ඬ⃟🔞 _${usedPrefix}videoxxx_
-° ඬ⃟🔞 _${usedPrefix}tetas_
-° ඬ⃟🔞 _${usedPrefix}booty_
-° ඬ⃟🔞 _${usedPrefix}ecchi_
-° ඬ⃟🔞 _${usedPrefix}furro_
-° ඬ⃟🔞 _${usedPrefix}imagenlesbians_
-° ඬ⃟🔞 _${usedPrefix}panties_
-° ඬ⃟🔞 _${usedPrefix}pene_
-° ඬ⃟🔞 _${usedPrefix}porno_
-° ඬ⃟🔞 _${usedPrefix}porno2_
-° ඬ⃟🔞 _${usedPrefix}randomxxx_
-° ඬ⃟🔞 _${usedPrefix}pechos_
-° ඬ⃟🔞 _${usedPrefix}yaoi_
-° ඬ⃟🔞 _${usedPrefix}yaoi2_
-° ඬ⃟🔞 _${usedPrefix}yuri_
-° ඬ⃟🔞 _${usedPrefix}yuri2_
-° ඬ⃟🔞 _${usedPrefix}trapito_
-° ඬ⃟🔞 _${usedPrefix}hentai_
-° ඬ⃟🔞 _${usedPrefix}pies_
-° ඬ⃟🔞 _${usedPrefix}nsfwloli_
-° ඬ⃟🔞 _${usedPrefix}nsfworgy_
-° ඬ⃟🔞 _${usedPrefix}nsfwfoot_
-° ඬ⃟🔞 _${usedPrefix}nsfwass_
-° ඬ⃟🔞 _${usedPrefix}nsfwbdsm_
-° ඬ⃟🔞 _${usedPrefix}nsfwcum_
-° ඬ⃟🔞 _${usedPrefix}nsfwero_
-° ඬ⃟🔞 _${usedPrefix}nsfwfemdom_
-° ඬ⃟🔞 _${usedPrefix}nsfwglass_
-
+°═•>> ${usedPrefix}logos *<efecto> <texto>*_
+°═•>> ${usedPrefix}simpcard *<@tag>*_
+°═•>> ${usedPrefix}hornycard *<@tag>*_
+°═•>> ${usedPrefix}lolice *<@tag>*_
+°═•>> ${usedPrefix}ytcomment *<texto>*_
+°═•>> ${usedPrefix}itssostupid_
+°═•>> ${usedPrefix}pixelar_
+°═•>> ${usedPrefix}blur_
+•═════════∘═════════••═════════∘═════════•
+*<ℝ𝔸ℕ𝔻𝕆𝕄/>*👾
+EJEMPLOS:
+°═•>> ඬ⃟ _${usedPrefix}kurumi_
+°═•>> ඬ⃟ _${usedPrefix}madara_
+°═•>> ඬ⃟ _${usedPrefix}mikasa_
+°═•>> ඬ⃟ _${usedPrefix}miku_
+°═•>> ඬ⃟ _${usedPrefix}minato_
+°═•>> ඬ⃟ _${usedPrefix}naruto_
+°═•>> ඬ⃟ _${usedPrefix}nezuko_
+°═•>> ඬ⃟ _${usedPrefix}cosplay_
+•═════════∘═════════••═════════∘═════════•
 *<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝔻𝔼 𝔸𝕌𝔻𝕀𝕆𝕊/>*
 *- 𝚁𝙴𝚂𝙿𝙾𝙽𝙳𝙴 𝙰 𝚄𝙽 𝙰𝚄𝙳𝙸𝙾 𝙾 𝙽𝙾𝚃𝙰 𝙳𝙴 𝚅𝙾𝚉*
 
@@ -279,7 +208,7 @@ let str = `
 ° ඬ⃟🎤 _${usedPrefix}slow_
 ° ඬ⃟🎤 _${usedPrefix}smooth_
 ° ඬ⃟🎤 _${usedPrefix}tupai_
-
+•═════════∘═════════••═════════∘═════════•
 *<ℂℍ𝔸𝕋 𝔸ℕ𝕆ℕ𝕀𝕄𝕆/>*
 
 ° ඬ⃟📳 _${usedPrefix}start_
@@ -375,6 +304,8 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
 ° ඬ⃟👽 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
 ° ඬ⃟👽 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
+
+❍❍❍❖❍❍❍❍❍❍❖❍❍❍❍❍❍❖❍❍❍❍❍❍❖❍❍❍
 
 *<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
 
